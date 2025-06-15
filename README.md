@@ -1,2 +1,2 @@
 # Rick-First-one
-The first one to learn
+The first one to learn.
